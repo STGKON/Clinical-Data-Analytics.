@@ -1,4 +1,3 @@
-# BIOINFORMATICS
 # Heart Failure Clinical Records Analysis
 ## Biostatistics & Predictive Modeling Project
 
